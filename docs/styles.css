@@ -6,4 +6,10 @@
 }
 span{
     font-weight: bold;
+    list-style: none;
 }
+*
+{
+    width: 1000px;
+}
+
