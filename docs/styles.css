@@ -4,12 +4,17 @@
 .p1{
     font-style: italic;
 }
+.description{
+    border:1px solid black;
+}
 span{
     font-weight: bold;
-    list-style: none;
 }
-*
-{
-    width: 1000px;
+ul {
+  list-style-type: none;
+}
+img{
+    max-width: 300px;
+
 }
 
