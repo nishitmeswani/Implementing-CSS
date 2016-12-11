@@ -1,5 +1,6 @@
 .main {
     border:1px solid black;
+    max-width: 320px;
 }
 .information {
     font-style: italic;
