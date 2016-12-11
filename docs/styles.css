@@ -1,19 +1,19 @@
-.b1{
+.main {
     border:1px solid black;
 }
-.p1{
+.information {
     font-style: italic;
 }
-.description{
-    border:1px solid black;
+.description {
+    border: 1px solid black;
 }
-span{
+span {
     font-weight: bold;
 }
 ul {
   list-style-type: none;
 }
-img{
+img {
     max-width: 300px;
 
 }
